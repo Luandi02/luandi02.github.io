@@ -1,0 +1,6 @@
+/* 自定义样式 */
+
+/* 首页 Banner 副标题（打字机文字）加粗 */
+#subtitle {
+  font-weight: 700;
+}
